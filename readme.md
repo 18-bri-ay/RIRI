@@ -107,7 +107,7 @@ Para instalar RIRI en un dispositivo Android:
 Para fines de evaluación académica se dispone de una cuenta de demostración.
 
 * **Usuario:** adm01penjamogto@riri.mx
-* **Contraseña:** Proporcionada de manera privada al evaluador.
+* **Contraseña:** penjamo123
 * **Referencia:** Consultar el documento `INSTRUCCIONES_ACCESO.md`.
 
 ---
